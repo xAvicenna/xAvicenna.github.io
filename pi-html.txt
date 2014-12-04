@@ -5,6 +5,14 @@
 </head>
 
 <body>
+	<nav>
+		<ul>
+			<li><a href ="/">Main</a></li>
+			<li><a href ="/about">About</li>
+			<li><a href ="/history">History</li>
+			<li><a href ="/contact">Contact</li>
+		</ul>
+	</nav>
 	<h1> Heading goes up here at the top </h1>
 	<p> From here on there will be paragraphs filled with sentences, and if they were to go off the right side of the page, they should en up on the next line on the left side. Let's try and make that happen by typing out the digits of pi: three point one four one five nine two six five three five eight nine seven nine three two three eight four six two six four three three eight three two seven nine five zero two eight eight four one nine seven one six nine three nine nine three seven five one zero. *gasps for air* five eight two zero nine seven four nine four four five nine two three zero seven eight one six four zero six two eight six two zero eight nine nine eight six two right zero three four eight two five three four two one one seven zero six seven nine. The first hundred digits should be suffice to push it to overflow a few lines. </p>
 	<p> digits 51 through 100 I re-memorised last night while working; it was a slow night. I don't know if it's my 'goal', but I'd like to memorise pi to 314 digits - because memorising to the Feynman point is a bit too much (762?)</p>
