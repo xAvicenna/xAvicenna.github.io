@@ -12,4 +12,5 @@
 	<h2> more than a ratio </h2>
 	<p> It isn't my favourite equation or method to calculating pi, but I like the equation "4(4arctan(1/5)-arctan(1/239)) = Pi" because it looks so simple - unlike my favourite, which is the Chudnovsky algorithm. </p> 
 	
+	<
 </body>
