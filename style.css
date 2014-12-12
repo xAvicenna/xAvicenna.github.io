@@ -2,14 +2,14 @@
 h1 {
 	border-style: ridge;
     border-width: 2px;
-    border-color: purple;
+    border-color: #024B8D;
 }
 
 body {
 	font-family: helvetica, sans-serif;
 	font-size: 16px;
 	color: green;
-	background-color: #D2D2D2;
+	background-color: #297ECB;
 	margin: 20px;
     padding: 30px;
 }
@@ -17,11 +17,11 @@ body {
 .formatImg {
 	padding: 50px;
 	vertical-align: middle;
-	background: #BDBDBD;
+	background: #C4D4E3;
 }
 
 p {
 	margin-left: 35px;
-	color: red;
-	background-color: #D2D2D2;
+	color: #00001F;
+	background-color: #297ECB;
 }
