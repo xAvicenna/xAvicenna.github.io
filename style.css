@@ -1,24 +1,29 @@
 
-h1{
-	
+h1 {
+	border-style: dashed;
+    border-width: 2px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: purple;
 }
 
-body{
+body {
 	font-family: helvetica, sans-serif;
 	font-size: 16px;
 	color: green;
 	background-color: #D2D2D2;
 	margin: 20px;
-    padding: 40px;
+    padding: 30px;
 }
 
-.formatImg{
+.formatImg {
 	padding: 50px;
 	vertical-align: middle;
 	background: #BDBDBD;
 }
 
-p{
+p {
+	margin-left: 35px;
 	color: red;
 	background-color: #D2D2D2;
 }
