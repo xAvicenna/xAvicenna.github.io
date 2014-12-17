@@ -14,6 +14,12 @@ body {
     padding: 30px;
 }
 
+.formatImg {
+	padding: 50px;
+	vertical-align: middle;
+	background: #C4D4E3;
+}
+
 p {
 	margin-left: 35px;
 	color: #00001F;
