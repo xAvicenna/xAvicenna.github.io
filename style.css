@@ -6,7 +6,7 @@ h1 {
 }
 
 body {
-	font-family: "Helvetica", sans-serif;
+	font-family: 'Helvetica', 'open Sans', sans-serif;
 	font-size: 16px;
 	color: #024B8D;
 	background-color: #E6E6E6;
@@ -14,11 +14,11 @@ body {
     padding: 30px;
 }
 
-.formatImg {
+/*.formatImg {
 	padding: 50px;
 	vertical-align: middle;
 	background: #C4D4E3;
-}
+}*/
 
 p {
 	margin-left: 35px;
@@ -32,9 +32,9 @@ p {
 	margin-left: 35px;
 }
 
-/*#contatiner{*/
-/*margin-left: 15px;*/
-/*}*/
+/*#contatiner{	use this to selectively target certain sections with this tag
+margin-left: 15px;
+}*/
 
 nav {
 	background-color: #CFCFCF;
