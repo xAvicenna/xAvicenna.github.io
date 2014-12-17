@@ -14,12 +14,6 @@ body {
     padding: 30px;
 }
 
-/*.formatImg {
-	padding: 50px;
-	vertical-align: middle;
-	background: #C4D4E3;
-}*/
-
 p {
 	margin-left: 35px;
 	color: #00001F;
@@ -32,9 +26,6 @@ p {
 	margin-left: 35px;
 }
 
-/*#contatiner{	use this to selectively target certain sections with this tag
-margin-left: 15px;
-}*/
 
 nav {
 	background-color: #CFCFCF;
@@ -52,4 +43,8 @@ nav ul {
 nav li {
 	display: inline;
 	margin-left: 45px;
+}
+
+h2 {
+	font-size: 1.3em;
 }
