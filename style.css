@@ -16,8 +16,10 @@ body {
 
 .formatImg {
 	padding: 50px;
-	vertical-align: middle;
+	margin-right: auto;
+	margin-left: auto;
 	background: #C4D4E3;
+	display: block;
 }
 
 p {
